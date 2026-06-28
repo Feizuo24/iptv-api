@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260627231455 +0800">
+<tv date="20260628115854 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6889,9 +6889,6 @@
 	<programme channel="CETV2" start="20260628012000 +0800" stop="20260628014000 +0800">
 		<title lang="zh">五年级数学:数据的表示和分析</title>
 	</programme>
-	<programme channel="CETV2" start="20260628012000 +0800" stop="20260628014000 +0800">
-		<title lang="zh">五年级数学:数据的表示和分析</title>
-	</programme>
 	<programme channel="CETV2" start="20260628014000 +0800" stop="20260628020000 +0800">
 		<title lang="zh">六年级数学:正比例和反比例</title>
 	</programme>
@@ -6964,6 +6961,9 @@
 	<programme channel="CETV2" start="20260628133000 +0800" stop="20260628140000 +0800">
 		<title lang="zh">美丽人生</title>
 	</programme>
+	<programme channel="CETV2" start="20260628133000 +0800" stop="20260628140000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
 	<programme channel="CETV2" start="20260628140000 +0800" stop="20260628143000 +0800">
 		<title lang="zh">等着我</title>
 	</programme>
@@ -7025,9 +7025,6 @@
 		<title lang="zh">一堂好课Ⅱ</title>
 	</programme>
 	<programme channel="CETV2" start="20260628235900 +0800" stop="20260629060000 +0800">
-		<title lang="zh">节目结束</title>
-	</programme>
-	<programme channel="CETV2" start="20260629000000 +0800" stop="20260629060000 +0800">
 		<title lang="zh">节目结束</title>
 	</programme>
 	<programme channel="CETV2" start="20260629060000 +0800" stop="20260629060100 +0800">
@@ -7122,6 +7119,9 @@
 	</programme>
 	<programme channel="CETV2" start="20260629132200 +0800" stop="20260629132800 +0800">
 		<title lang="zh">导视</title>
+	</programme>
+	<programme channel="CETV2" start="20260629132800 +0800" stop="20260629133300 +0800">
+		<title lang="zh">国宝时刻(44):刻花鹅颈瓶</title>
 	</programme>
 	<programme channel="CETV2" start="20260629132800 +0800" stop="20260629133300 +0800">
 		<title lang="zh">国宝时刻(44):刻花鹅颈瓶</title>
@@ -8593,9 +8593,6 @@
 	<programme channel="东方财经" start="20260629013000 +0800" stop="20260629014500 +0800">
 		<title lang="zh">文化访谈录(288)</title>
 	</programme>
-	<programme channel="东方财经" start="20260629013000 +0800" stop="20260629014500 +0800">
-		<title lang="zh">文化访谈录(288)</title>
-	</programme>
 	<programme channel="东方财经" start="20260629014500 +0800" stop="20260629060100 +0800">
 		<title lang="zh">祝您晚安</title>
 	</programme>
@@ -8655,6 +8652,9 @@
 	</programme>
 	<programme channel="东方财经" start="20260629125600 +0800" stop="20260629130000 +0800">
 		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260629130000 +0800" stop="20260629150000 +0800">
+		<title lang="zh">市场零距离</title>
 	</programme>
 	<programme channel="东方财经" start="20260629130000 +0800" stop="20260629150000 +0800">
 		<title lang="zh">市场零距离</title>
@@ -9454,9 +9454,6 @@
 	<programme channel="优漫卡通" start="20260629010000 +0800" stop="20260629050000 +0800">
 		<title lang="zh">盒子联盟之工程车小队</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260629010000 +0800" stop="20260629050000 +0800">
-		<title lang="zh">盒子联盟之工程车小队</title>
-	</programme>
 	<programme channel="优漫卡通" start="20260629050000 +0800" stop="20260629060000 +0800">
 		<title lang="zh">天眼归来</title>
 	</programme>
@@ -9492,6 +9489,9 @@
 	</programme>
 	<programme channel="优漫卡通" start="20260629123000 +0800" stop="20260629125500 +0800">
 		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260629125500 +0800" stop="20260629135500 +0800">
+		<title lang="zh">天眼归来</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260629125500 +0800" stop="20260629135500 +0800">
 		<title lang="zh">天眼归来</title>
@@ -11632,6 +11632,21 @@
 	<programme channel="动漫秀场" start="20260629000000 +0800" stop="20260629001100 +0800">
 		<title lang="zh">旗旗号巡洋舰Ⅱ(9)</title>
 	</programme>
+	<programme channel="动漫秀场" start="20260629001100 +0800" stop="20260629002300 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅱ(10)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260629002300 +0800" stop="20260629003600 +0800">
+		<title lang="zh">布鲁可战队之危客对决(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260629003600 +0800" stop="20260629004800 +0800">
+		<title lang="zh">布鲁可战队之危客对决(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260629004800 +0800" stop="20260629010300 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(17)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260629010300 +0800" stop="20260629011800 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(18)</title>
+	</programme>
 	<programme channel="动漫秀场" start="20260629011800 +0800" stop="20260629013300 +0800">
 		<title lang="zh">荒岛历险记之罗克和编程猫(19)</title>
 	</programme>
@@ -11781,18 +11796,6 @@
 	</programme>
 	<programme channel="动漫秀场" start="20260629122800 +0800" stop="20260629124100 +0800">
 		<title lang="zh">布鲁可战队之危客对决(13)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260629124100 +0800" stop="20260629125400 +0800">
-		<title lang="zh">布鲁可战队之危客对决(14)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260629125400 +0800" stop="20260629125600 +0800">
-		<title lang="zh">荧屏直通车(1)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260629125600 +0800" stop="20260629131100 +0800">
-		<title lang="zh">荒岛历险记之罗克和编程猫(13)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260629131100 +0800" stop="20260629132600 +0800">
-		<title lang="zh">荒岛历险记之罗克和编程猫(14)</title>
 	</programme>
 	<programme channel="动漫秀场" start="20260629132600 +0800" stop="20260629134100 +0800">
 		<title lang="zh">荒岛历险记之罗克和编程猫(15)</title>
@@ -12802,9 +12805,6 @@
 	<programme channel="游戏风云" start="20260629013000 +0800" stop="20260629014500 +0800">
 		<title lang="zh">游戏大厅:飞天猫(1)</title>
 	</programme>
-	<programme channel="游戏风云" start="20260629013000 +0800" stop="20260629014500 +0800">
-		<title lang="zh">游戏大厅:飞天猫(1)</title>
-	</programme>
 	<programme channel="游戏风云" start="20260629014500 +0800" stop="20260629020000 +0800">
 		<title lang="zh">游戏大厅:非一般职场(1)</title>
 	</programme>
@@ -12864,6 +12864,9 @@
 	</programme>
 	<programme channel="游戏风云" start="20260629131500 +0800" stop="20260629133000 +0800">
 		<title lang="zh">游戏大厅:幻想乡空战姬(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260629133000 +0800" stop="20260629134500 +0800">
+		<title lang="zh">游戏大厅:混沌银河(1)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260629133000 +0800" stop="20260629134500 +0800">
 		<title lang="zh">游戏大厅:混沌银河(1)</title>
